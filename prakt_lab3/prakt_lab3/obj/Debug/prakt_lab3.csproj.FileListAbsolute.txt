@@ -1,0 +1,23 @@
+C:\Users\mihai\source\repos\prakt_lab3\prakt_lab3\bin\Debug\prakt_lab3.exe.config
+C:\Users\mihai\source\repos\prakt_lab3\prakt_lab3\bin\Debug\prakt_lab3.exe
+C:\Users\mihai\source\repos\prakt_lab3\prakt_lab3\bin\Debug\prakt_lab3.pdb
+C:\Users\mihai\source\repos\prakt_lab3\prakt_lab3\obj\Debug\prakt_lab3.csproj.AssemblyReference.cache
+C:\Users\mihai\source\repos\prakt_lab3\prakt_lab3\obj\Debug\prakt_lab3.csproj.SuggestedBindingRedirects.cache
+C:\Users\mihai\source\repos\prakt_lab3\prakt_lab3\obj\Debug\prakt_lab3.Form1.resources
+C:\Users\mihai\source\repos\prakt_lab3\prakt_lab3\obj\Debug\prakt_lab3.Properties.Resources.resources
+C:\Users\mihai\source\repos\prakt_lab3\prakt_lab3\obj\Debug\prakt_lab3.Settings.resources
+C:\Users\mihai\source\repos\prakt_lab3\prakt_lab3\obj\Debug\prakt_lab3.csproj.GenerateResource.cache
+C:\Users\mihai\source\repos\prakt_lab3\prakt_lab3\obj\Debug\prakt_lab3.csproj.CoreCompileInputs.cache
+C:\Users\mihai\source\repos\prakt_lab3\prakt_lab3\obj\Debug\prakt_lab3.exe
+C:\Users\mihai\source\repos\prakt_lab3\prakt_lab3\obj\Debug\prakt_lab3.pdb
+D:\практика панч\ЛАБ 3\prakt_lab3\prakt_lab3\bin\Debug\prakt_lab3.exe.config
+D:\практика панч\ЛАБ 3\prakt_lab3\prakt_lab3\bin\Debug\prakt_lab3.exe
+D:\практика панч\ЛАБ 3\prakt_lab3\prakt_lab3\bin\Debug\prakt_lab3.pdb
+D:\практика панч\ЛАБ 3\prakt_lab3\prakt_lab3\obj\Debug\prakt_lab3.Form1.resources
+D:\практика панч\ЛАБ 3\prakt_lab3\prakt_lab3\obj\Debug\prakt_lab3.Properties.Resources.resources
+D:\практика панч\ЛАБ 3\prakt_lab3\prakt_lab3\obj\Debug\prakt_lab3.Settings.resources
+D:\практика панч\ЛАБ 3\prakt_lab3\prakt_lab3\obj\Debug\prakt_lab3.csproj.GenerateResource.cache
+D:\практика панч\ЛАБ 3\prakt_lab3\prakt_lab3\obj\Debug\prakt_lab3.csproj.CoreCompileInputs.cache
+D:\практика панч\ЛАБ 3\prakt_lab3\prakt_lab3\obj\Debug\prakt_lab3.exe
+D:\практика панч\ЛАБ 3\prakt_lab3\prakt_lab3\obj\Debug\prakt_lab3.pdb
+D:\практика панч\ЛАБ 3\prakt_lab3\prakt_lab3\obj\Debug\prakt_lab3.csprojAssemblyReference.cache
